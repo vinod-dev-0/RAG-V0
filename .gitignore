@@ -1,7 +1,7 @@
 /.env
 /chroma_db_basic_chunks
+/chunk_jds.py
+/data_scientist_jd.md
 /Job_Description
 /Job_Description_Chunks
 /venv
-
-/data_scientist_jd.md
