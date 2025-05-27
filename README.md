@@ -9,7 +9,7 @@ This project implements an end-to-end document processing pipeline for job descr
 - **Input**: Job description PDFs stored in `Job_Description/` directory
 - **Tool**: PyPDFLoader from langchain_community
 - **Process**: Extracts raw text from PDFs while preserving document structure
-- **Implementation**: Found in both `chunk_jds.py` and `semantic_chunk_jds_gemini.py`
+- **Implementation**: Found in both `chunk_jds.py` and `semantic_chunk_jds_gemini.py` (NOT using, need to improve)
 
 ### 2. Text Chunking
 The project offers two different chunking approaches:
