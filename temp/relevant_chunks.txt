@@ -1,0 +1,40 @@
+Results: {'ids': [
+        ['JD_DS_Internship_chunk_5', 'JD_Full Stack AI_Internship_chunk_0', 'JD_Backend Engineering_Internship_chunk_0', 'JD_Frontend Engineering_Internship_chunk_0', 'JD_Frontend Engineering_Internship_chunk_1', 'JD_DS_Internship_chunk_3', 'JD_DS_Internship_chunk_1', 'JD_Backend Engineering_Internship_chunk_1'
+        ]
+    ], 'embeddings': None, 'documents': [
+        ['experts. • Make a real impact on the growth of a startup transforming the GenAI landscape. • Develop your professional network and gain exposure to the exciting world of B2B startups. • Conversion to a full-time role at end of internship period, subject to performance.',
+            "Full Stack 1 \n \n \n \n \n \n \n \nAbout the Internship: \n \nJoin our Bangalore team for a 3-month on-site internship focused on practical AI-driven \ndevelopment. You'll gain hands-on experience building full-stack applications (MERN or \nReact/Python), tackling challenging problems, and integrating AI to streamline development \nworkflows. This isn't just theory; you'll build projects that demonstrate your skills and impact. \nExpect a dynamic environment that combines learning with real-world application. \n \nWhat We're Looking For: \n• Full-Stack Proficiency: Demonstrated experience with either the MERN stack or \nReact/Python. We need to see your work. \n• AI Awareness: You should be up-to-date on current AI trends, including LLMs and AI \nAgents, and have a keen interest in applying these technologies to solve real-world \nbusiness problems. \n• Passion for Coding & AI: A genuine enthusiasm for writing code and exploring how AI can \nmake development more efficient.", 'Backend Engineering Intern 1 \n \n \n \n \n \n \nAbout Pangea Tech: \n \nPangea Tech is at the forefront of facilitating AI adoption across various industries. Our innovative \nproducts and deep expertise in diverse AI technologies and business domains set us apart. We \ncater to a global clientele and are committed to driving AI integration in business processes. \n \nJob Description: \n \nWe are seeking a motivated and detail-oriented Backend Intern to join our Engineering team. This \ninternship provides an excellent opportunity for individuals looking to gain hands-on experience in \nbackend development functions. \n \nResponsibilities: \n• Compile and analyze data, processes, and codes to troubleshoot problems and identify \nareas for improvement. \n• Collaborating with the other team members to establish objectives and design more \nfunctional, cohesive codes to enhance the user experience. \n• Developing ideas for new programs, products, or features by monitoring industry \ndevelopments and trends.', 'Frontend Engineering Intern 1 \n \n \n \n \n \n \nAbout Pangea Tech: \nPangea Tech is at the forefront of facilitating AI adoption across various industries. Our innovative \nproducts and deep expertise in diverse AI technologies and business domains set us apart. We \ncater to a global clientele and are committed to driving AI integration in business processes. \nJob Description: \nWe are seeking a motivated and detail-oriented Intern-Frontend to join our Engineering team. This \ninternship provides an excellent opportunity for individuals looking to gain hands-on experience in \nFrontend development functions. \nResponsibilities: \n• Develop and maintain responsive web pages using HTML, CSS, JavaScript & Reactjs. \n• Test and debug code to ensure cross-browser compatibility and optimal performance \n• Assist in the development of new features and functionality for web applications \n• Stay up to date with emerging trends and technologies in front-end development', '• Assist in the development of new features and functionality for web applications \n• Stay up to date with emerging trends and technologies in front-end development \n• Create and maintain documentation for code and process \n \nQualifications: \n• Currently pursuing/completed a degree in Computer Science, Information Technology or a \nrelated field. \n• Experience in HTML, CSS, JavaScript for at least 6 months \n• Basic knowledge of the JavaScript framework as Reactjs \n• Strong organizational and communication skills. \n• Detail-oriented with a commitment to accuracy. \n \nFrontend Engineering Intern', 'DATA SCIENCE INTERNSHIP\nDATA SCIENCE INTERNSHIP 2', 'Do you have a passion for data and a knack for understanding why it behaves the way it does? Are you eager to learn the ropes of data science in a fast-paced AI startup environment? If so, then this internship is for you!  Who we are Pangea Tech is a global product-focused company with leading capabilities in AI, Data Analytics, and Consulting Services. At Pangea, we embrace the power of AI technology and data analytics to create value and shared success for our client partners, stakeholders, employees, and community. Combining our experience and specialized skills, we enable our clients to apply AI insights to solve problems, derive insights through data analytics, and increase revenue through customer satisfaction.   What we expect from you  • Develop and deploy machine learning models using Keras, TensorFlow, and PyTorch. • Analyze data and apply appropriate statistical techniques to generate insights. • Build and train AI and ML models to solve complex business problems. •', 'functional, cohesive codes to enhance the user experience. \n• Developing ideas for new programs, products, or features by monitoring industry \ndevelopments and trends. \n• Recording data and reporting it to proper parties, such as clients or leadership. \n• Participating in continuing education and training to remain current on best practices, learn \nnew programming languages, and better assist other team members \nQualifications: \n• Currently pursuing/completed a degree in Computer Science, Information Technology or a \nrelated field. \n• Experience in Python & Node.js for at least 6 months \n• Strong organizational and communication skills. \n• Detail-oriented with a commitment to accuracy. \n \nBackend Engineering Intern'
+        ]
+    ], 'uris': None, 'included': ['metadatas', 'documents', 'distances'
+    ], 'data': None, 'metadatas': [
+        [
+            {'source': 'JD_DS_Internship.pdf', 'chunk_index': 5, 'chunk_file': 'JD_DS_Internship_chunks.txt'
+            },
+            {'source': 'JD_Full Stack AI_Internship.pdf', 'chunk_index': 0, 'chunk_file': 'JD_Full Stack AI_Internship_chunks.txt'
+            },
+            {'source': 'JD_Backend Engineering_Internship.pdf', 'chunk_file': 'JD_Backend Engineering_Internship_chunks.txt', 'chunk_index': 0
+            },
+            {'chunk_index': 0, 'source': 'JD_Frontend Engineering_Internship.pdf', 'chunk_file': 'JD_Frontend Engineering_Internship_chunks.txt'
+            },
+            {'chunk_index': 1, 'source': 'JD_Frontend Engineering_Internship.pdf', 'chunk_file': 'JD_Frontend Engineering_Internship_chunks.txt'
+            },
+            {'source': 'JD_DS_Internship.pdf', 'chunk_index': 3, 'chunk_file': 'JD_DS_Internship_chunks.txt'
+            },
+            {'chunk_file': 'JD_DS_Internship_chunks.txt', 'chunk_index': 1, 'source': 'JD_DS_Internship.pdf'
+            },
+            {'chunk_file': 'JD_Backend Engineering_Internship_chunks.txt', 'chunk_index': 1, 'source': 'JD_Backend Engineering_Internship.pdf'
+            }
+        ]
+    ], 'distances': [
+        [
+            0.6576197743415833,
+            0.6779886484146118,
+            0.6816062331199646,
+            0.688435971736908,
+            0.6908077597618103,
+            0.6996774673461914,
+            0.7013729810714722,
+            0.7028058767318726
+        ]
+    ]
+}

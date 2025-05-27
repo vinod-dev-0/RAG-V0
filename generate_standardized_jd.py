@@ -7,8 +7,8 @@ import logging
 import argparse
 import re
 from datetime import datetime
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnableLambda
+# from langchain_core.output_parsers import StrOutputParser
+# from langchain_core.runnables import RunnableLambda
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -83,6 +83,8 @@ def retrieve_relevant_chunks(query_text, top_k=8):
         collection = client.get_collection(name=CHROMA_COLLECTION_NAME)
         query_embedding = embeddings_model.embed_query(query_text)
         results = collection.query(query_embeddings=[query_embedding], n_results=top_k)
+        print(f"Results: {results}")
+        
         return results['documents'][0] if results and results.get('documents') and results['documents'][0] else []
     except Exception as e:
         logging.error(f"Error during retrieval: {e}")
@@ -168,6 +170,8 @@ def save_job_description(job_description_content, job_title_for_filename):
         return None
 
 def main():
+    
+    # these args are options for batch processing or interactive mode
     parser = argparse.ArgumentParser(description='Interactive Job Description Generation Assistant')
     parser.add_argument('--batch', action='store_true')
     parser.add_argument('--query', type=str)
